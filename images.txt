@@ -1,4 +1,4 @@
-pytorch/manylinux-cuda116
+ubuntu:jammy-20250126
 #alpine
 #nginx
 ##支持私库
