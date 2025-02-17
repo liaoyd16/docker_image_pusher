@@ -1,4 +1,4 @@
-ekellercu/network-testing
+ekellercu/network-testing:v0.1
 #alpine
 #nginx
 ##支持私库
