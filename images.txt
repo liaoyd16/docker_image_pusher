@@ -1,4 +1,4 @@
-ubuntu:jammy-20250126
+ekellercu/network-testing
 #alpine
 #nginx
 ##支持私库
